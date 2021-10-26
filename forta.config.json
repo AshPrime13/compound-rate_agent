@@ -1,0 +1,7 @@
+{
+    "jsonRpcUrl": "https://polygon-rpc.com/",
+    "debug": false,
+    "ipfsGatewayUrl": "https://ipfs.infura.io:5001",
+    "ipfsGatewayAuth": "Basic Base64(c3dfdc85a54246639cb8fd6a12f114c2:d5d56f3c87294d29817150cb34f3bb60)",
+    "agentRegistryJsonRpcUrl ": "https://polygon-rpc.com/"
+}
